@@ -21,4 +21,5 @@ fun main() {
         }
         println(if (possible) "Yes" else "No")
     }
+
 }
