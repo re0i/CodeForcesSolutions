@@ -59,4 +59,5 @@ fun main() {
         sb.appendLine(countSubsegments(arr, n, s, x) - countSubsegments(arr, n, s, x - 1))
     }
     print(sb)
+
 }
